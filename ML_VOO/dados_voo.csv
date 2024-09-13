@@ -1,0 +1,51 @@
+ID_Voo,Origem,Destino,Data_Voo,Hora_Partida,Hora_Chegada,Duracao_Voo,Companhia_Aerea,Preco,Distancia,Classe,Tipo_Aeronave
+1,São Paulo,Rio de Janeiro,2024-09-15,08:00,09:30,1.5,GOL,300.50,450,Econômica,Boeing 737
+2,Rio de Janeiro,Brasília,2024-09-16,10:00,12:30,2.5,Latam,450.00,930,Econômica,Airbus A320
+3,Brasília,Salvador,2024-09-17,14:00,16:00,2.0,Azul,500.00,1000,Executiva,Boeing 737
+4,Goiás,Natal,2024-12-10,12:00,15:00,3.0,DEDEcorp,700.00,400,Executiva,Boeing 737
+5,Goiás,Santa Catarina,2024-11-11,14:00,18:00,4.0,DEDEcorp,450.00,700,Econômica,Airbus A320
+6,Belo Horizonte,Porto Alegre,2024-09-18,09:00,12:00,3.0,GOL,550.00,850,Econômica,Embraer E190
+7,Rio de Janeiro,Recife,2024-10-01,07:00,11:00,4.0,Latam,750.00,1600,Executiva,Boeing 777
+8,Salvador,Fortaleza,2024-09-19,06:30,08:30,2.0,Azul,420.00,1200,Econômica,Boeing 737
+9,São Paulo,Brasília,2024-10-05,08:00,10:00,2.0,GOL,490.00,870,Econômica,Airbus A320
+10,Porto Alegre,São Paulo,2024-09-20,09:00,11:00,2.0,Latam,380.00,750,Econômica,Boeing 737
+11,Rio de Janeiro,Salvador,2024-10-12,12:00,14:30,2.5,GOL,600.00,900,Executiva,Airbus A321
+12,Brasília,Fortaleza,2024-11-15,11:00,14:30,3.5,Azul,720.00,1100,Econômica,Embraer E195
+13,Fortaleza,Salvador,2024-12-12,07:00,09:00,2.0,GOL,410.00,1200,Econômica,Boeing 737
+14,São Paulo,Rio de Janeiro,2024-09-30,09:00,10:30,1.5,Latam,310.00,450,Econômica,Boeing 737
+15,Belo Horizonte,Brasília,2024-09-25,13:00,14:30,1.5,Azul,350.00,550,Econômica,Airbus A320
+16,Recife,São Paulo,2024-10-06,16:00,19:30,3.5,GOL,780.00,1400,Executiva,Airbus A321
+17,Rio de Janeiro,Porto Alegre,2024-11-18,18:00,20:30,2.5,Latam,540.00,800,Econômica,Boeing 737
+18,São Paulo,Salvador,2024-09-22,11:00,13:30,2.5,GOL,620.00,1000,Executiva,Airbus A321
+19,Brasília,Rio de Janeiro,2024-10-10,08:00,10:30,2.5,Azul,450.00,930,Econômica,Boeing 737
+20,Salvador,Belo Horizonte,2024-12-10,09:00,11:30,2.5,DEDEcorp,630.00,1100,Executiva,Airbus A320
+21,São Paulo,Belo Horizonte,2024-11-01,14:00,15:30,1.5,GOL,290.00,500,Econômica,Embraer E190
+22,Rio de Janeiro,Fortaleza,2024-10-15,07:00,11:00,4.0,Latam,780.00,1600,Executiva,Boeing 777
+23,Salvador,São Paulo,2024-09-27,16:00,18:30,2.5,Azul,580.00,1000,Econômica,Boeing 737
+24,Brasília,Natal,2024-09-29,09:00,12:30,3.5,GOL,720.00,1150,Econômica,Airbus A320
+25,Porto Alegre,Fortaleza,2024-12-11,12:00,16:00,4.0,Latam,810.00,1800,Executiva,Boeing 777
+26,Rio de Janeiro,Brasília,2024-09-23,08:30,11:00,2.5,GOL,490.00,930,Econômica,Airbus A320
+27,Fortaleza,Brasília,2024-11-05,13:00,16:30,3.5,Azul,680.00,1100,Econômica,Boeing 737
+28,São Paulo,Recife,2024-10-20,09:00,12:30,3.5,GOL,760.00,1400,Executiva,Airbus A321
+29,Belo Horizonte,Rio de Janeiro,2024-09-28,10:00,11:30,1.5,Latam,320.00,550,Econômica,Boeing 737
+30,Salvador,Porto Alegre,2024-12-15,18:00,21:00,3.0,GOL,850.00,1800,Executiva,Airbus A321
+31,São Paulo,Brasília,2024-10-07,08:00,10:00,2.0,GOL,490.00,870,Econômica,Airbus A320
+32,Rio de Janeiro,Salvador,2024-10-18,12:00,14:30,2.5,GOL,600.00,900,Executiva,Airbus A321
+33,Brasília,Fortaleza,2024-11-16,11:00,14:30,3.5,Azul,720.00,1100,Econômica,Embraer E195
+34,Fortaleza,São Paulo,2024-12-20,07:00,11:00,4.0,GOL,780.00,1400,Executiva,Airbus A321
+35,São Paulo,Rio de Janeiro,2024-09-21,09:00,10:30,1.5,Latam,310.00,450,Econômica,Boeing 737
+36,Belo Horizonte,Brasília,2024-10-05,13:00,14:30,1.5,Azul,350.00,550,Econômica,Airbus A320
+37,Recife,São Paulo,2024-11-25,16:00,19:30,3.5,GOL,780.00,1400,Executiva,Airbus A321
+38,Rio de Janeiro,Porto Alegre,2024-12-08,18:00,20:30,2.5,Latam,540.00,800,Econômica,Boeing 737
+39,São Paulo,Salvador,2024-11-30,11:00,13:30,2.5,GOL,620.00,1000,Executiva,Airbus A321
+40,Brasília,Rio de Janeiro,2024-09-12,08:00,10:30,2.5,Azul,450.00,930,Econômica,Boeing 737
+41,Salvador,Belo Horizonte,2024-10-01,09:00,11:30,2.5,GOL,630.00,1100,Executiva,Airbus A320
+42,São Paulo,Belo Horizonte,2024-11-12,14:00,15:30,1.5,Latam,290.00,500,Econômica,Embraer E190
+43,Rio de Janeiro,Fortaleza,2024-12-15,07:00,11:00,4.0,GOL,780.00,1600,Executiva,Boeing 777
+44,Salvador,São Paulo,2024-10-10,16:00,18:30,2.5,Azul,580.00,1000,Econômica,Boeing 737
+45,Brasília,Natal,2024-11-02,09:00,12:30,3.5,Latam,720.00,1150,Econômica,Airbus A320
+46,Porto Alegre,Fortaleza,2024-12-18,12:00,16:00,4.0,GOL,810.00,1800,Executiva,Boeing 777
+47,Rio de Janeiro,Brasília,2024-09-19,08:30,11:00,2.5,Latam,490.00,930,Econômica,Airbus A320
+48,Fortaleza,Brasília,2024-10-30,13:00,16:30,3.5,GOL,680.00,1100,Econômica,Boeing 737
+49,São Paulo,Recife,2024-09-25,09:00,12:30,3.5,Latam,760.00,1400,Executiva,Airbus A321
+50,Belo Horizonte,Rio de Janeiro,2024-11-22,10:00,11:30,1.5,Azul,320.00,550,Econômica,Boeing 737
